@@ -1,0 +1,22 @@
+This is a placeholder file.
+
+To enable the music player:
+
+1. Replace this file with an actual MP3 file named "background-music.mp3"
+2. The file should be a background music track suitable for a website
+3. Recommended file size: 2-5 MB
+4. Recommended duration: 2-5 minutes (it will loop automatically)
+
+The music player will automatically:
+- Start playing after the first user interaction (click, scroll, etc.)
+- Loop continuously
+- Remember volume settings
+- Show error states if the file is missing
+
+You can find royalty-free background music from:
+- Pixabay Music
+- Free Music Archive
+- ccMixter
+- Incompetech (Kevin MacLeod)
+
+Make sure to use royalty-free music or music you have permission to use. 
